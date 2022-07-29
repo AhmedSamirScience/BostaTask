@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+        <View
+            android:layout_width="@dimen/_240sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/linear_shimmer_curved" />
+
+
+
+    </LinearLayout>
+
+
+
+</layout>

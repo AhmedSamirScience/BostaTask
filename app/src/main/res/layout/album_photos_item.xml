@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <com.google.android.material.card.MaterialCardView
+            android:layout_margin="@dimen/_10sdp"
+            android:id="@+id/main_card"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_69sdp"
+            app:cardCornerRadius="@dimen/_9sdp">
+
+            <ImageView
+                    android:contentDescription="@string/image_description"
+                    android:scaleType="fitXY"
+                    android:id="@+id/item_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+<!--    android:background="@drawable/linear_corner"-->
+<!--    app:srcCompat="@mipmap/sharee_logo"-->
+</layout>

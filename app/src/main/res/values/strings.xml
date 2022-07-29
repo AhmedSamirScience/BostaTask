@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BostaTask</string>
+
+    <string name="image_description" translatable="false">image view</string>\
+
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="server_error">Something went wrong, please try again later</string>
+    <string name="no_network">There is no active network connected to your device</string>
+    <string name="no_data_found">There is no data found</string>
+
+
+    <string name="search">Search in images...</string>
+
+
+</resources>

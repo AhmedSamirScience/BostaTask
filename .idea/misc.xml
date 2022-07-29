@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/macom/Downloads/BostaTask/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/macom/Downloads/BostaTask/app/src/main/res/layout/profile_fragment.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable-v24/full_rounded_rectangle_grey.xml" value="0.189" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable-v24/line.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable-v24/rounded_all_linear.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/full_rounded_rectangle_grey.xml" value="0.189" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.189" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/ic_error.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/ic_search.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/ic_success.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/line.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/red_linear_serach.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/drawable/rounded_all_linear.xml" value="0.1985" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/album_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/album_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/album_photos_body_shimmer_item.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/album_photos_item.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/album_shimmer_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/custom_alert.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/custom_error_dialog.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/image_viewer.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/merchant_cat_item.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/profile_album_data_shimmer_item.xml" value="0.22" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/profile_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/layout/profile_user_body_shimmer_item.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/macom/Downloads/Copy - Copy (2)/BostaTask/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.189" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
